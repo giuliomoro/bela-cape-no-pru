@@ -1,0 +1,3 @@
+[submodule "BeagleBone-SPI-Library"]
+	path = BeagleBone-SPI-Library
+	url = git@github.com:giuliomoro/BeagleBone-SPI-Library.git
